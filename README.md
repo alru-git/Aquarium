@@ -1,5 +1,5 @@
 # Aquarium.Temperatur
-Messung der Temperatur und des Wasserstandes im aquarium
+Messung der Temperatur und des Wasserstandes im Aquarium
 
 
 Genutzte Technologien:
