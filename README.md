@@ -1,5 +1,5 @@
-# Aquarium.Temperatur
-Messung der Temperatur und des Wasserstandes im Aquarium
+# Aquarium
+Messung der Temperatur, des Wasserpegels im Aquarium und Steuerung der JBL LED Leiste
 
 
 Genutzte Technologien:
